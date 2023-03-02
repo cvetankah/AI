@@ -1,5 +1,5 @@
-@import url('https://fonts.googleapis.com/css?family=Roboto&display=swap');
-@import url('https://fonts.googleapis.com/css?family=Roboto+Slab&display=swap');
+@import url('https://fonts.googleapis.com');
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@100&display=swap');
 
 body {
     width: 100%;
@@ -46,7 +46,7 @@ body {
     display: flex;
     justify-content:space-between;
     align-items: center;
-    font-family: 'Roboto', serif;
+    font-family: 'Ubuntu';
     font-size: 15px;
     color:aliceblue;
 }
@@ -76,7 +76,7 @@ body {
 }
 
 .course-duration{
-    font-family: 'Roboto Slab', serif;
+    font-family: 'Ubuntu';
     font-size: 36px;
     font-weight: 700;
     color: #5FD6FF;
@@ -84,7 +84,7 @@ body {
 }
 
 .course-title {
-    font-family: 'Roboto Slab', serif;
+    font-family: 'Ubuntu';
     font-weight: bold;
     font-size: 18px;
     text-transform: uppercase;
@@ -118,7 +118,7 @@ body {
 }
 
 .button-white {
-    font-family: 'Roboto', serif;
+    font-family: 'Ubuntu', sans-serif;
     font-weight: bold;
     font-size: 15px;
     letter-spacing: 0;
@@ -134,7 +134,7 @@ body {
 }
 
 .button-colorless {
-    font-family: 'Roboto', serif;
+    font-family: 'Ubuntu';
     font-size: 12px;
     letter-spacing: 0;
     text-align: center;
@@ -158,17 +158,19 @@ body {
 }
 
 .course-overview {
+    font-family: 'Ubuntu';
     font-size: 30px;
     color: #1B3763;
     align-items: center;
-    margin-bottom: 80px;
+    margin-bottom: 40px;
 }
 
 .short-course-description {
+    font-family: 'Ubuntu';
     font-size: 14px;
     color: #656565;
     text-align: left;
-    padding-top: 11px;
+    padding-top: 5px;
 }
 
 .ractangle-information {
@@ -189,6 +191,7 @@ body {
 
 .ractangle-paragraph {
     color: #0071BB;
+    font-family: 'Ubuntu';
     font-size: 18px;
     font-weight: bold;
     text-align: center;
@@ -198,6 +201,7 @@ body {
 
 .ractangle-text-span2 {
     color: #A6A8AB;
+    font-family: 'Ubuntu';
     font-size: 15px;
     font-weight: bold;
     margin-left: 170px;
@@ -222,6 +226,7 @@ body {
 }
 
 .practitioner-title {
+    font-family: 'Ubuntu';
     font-size: 24px;
     font-weight: bold;
     color: #0071BB;
@@ -247,6 +252,7 @@ body {
     padding: 5px;
     padding-left: 3px;
     font-weight: bold;
+    font-family: 'Ubuntu';
 }
 
 .course-box-information {
@@ -269,6 +275,7 @@ body {
 }
 
 .box-name {
+    font-family: 'Ubuntu';
     font-size: 12px;
     text-transform: uppercase;
     justify-content: center;
@@ -287,6 +294,7 @@ body {
 
 .box-span-information {
     font-size: 12px;
+    font-family: 'Ubuntu';
     text-align: center;
     text-transform: uppercase;
     color: #FFFFFF;
@@ -315,8 +323,8 @@ body {
 }
 
 .list-intro {
-    font-family: 'Roboto', serif;
-    font-size: 13px;
+    font-family: 'Ubuntu';
+    font-size: 15px;
     color: #656565;
     display: flex;
 }
@@ -327,20 +335,22 @@ body {
 }
 
 .list {
-    font-family: 'Roboto', serif;
+    font-family: 'Ubuntu';
     color:#656565;
     padding-top: 10px;
 }
 
 .list-item {
+    font-family: 'Ubuntu';
     padding: 20px 5px;
-    font-size: 13px;
+    font-size: 15px;
 }
 
 li {
     color: #0071BB;
     margin-top: 10px;
     font-size: 20px;
+    font-family: 'Ubuntu';
 }
 
 li span {
@@ -357,6 +367,7 @@ li span {
 .paragraph-span-blue {
     color: #0071BB;
     font-weight: bold;
+    font-family: 'Ubuntu';
 }
 
 .logox2-bottom {
@@ -398,6 +409,7 @@ li span {
 
 .span-text-question {
     color: #1B3763;
+    font-family: 'Ubuntu';
     font-size: 40px;
     font-weight: bold;
     white-space: pre;
@@ -426,7 +438,7 @@ li span {
 .circle {
     position: center;
     bottom: -10px;
-    font-family: 'Roboto Slab', serif;
+    font-family: 'Ubuntu';
     font-size: 15px;
     background-color: #FFFFFF;
     text-decoration: none;
@@ -448,6 +460,7 @@ li span {
 
 .span-uppercase {
     color: #0071BB;
+    font-family: 'Ubuntu';
     font-size: 18px;
     font-weight: bold;
     text-transform: uppercase;
@@ -458,6 +471,7 @@ li span {
 .spaan {
     white-space: pre;
     color: #656565;
+    font-family: 'Ubuntu';
     font-size: 13px;
     font-weight: bold;
     align-items: left;
@@ -467,6 +481,7 @@ li span {
 .spaan-lighter {
     white-space: pre;
     color: #A7A9AC;
+    font-family: 'Ubuntu';
     font-size: 12px;
     font-weight: bold;
     align-items: left;
@@ -497,6 +512,7 @@ li span {
 }
 
 .ractangle-span-dva {
+    font-family: 'Ubuntu';
     font-size: 14px;
     color: #656565;
     text-align: left;
@@ -505,6 +521,7 @@ li span {
 
 .ractangle-span-tri {
     padding-right: 30px;
+    font-family: 'Ubuntu';
     font-size: 14px;
     color: #656565;
     text-align: left;
@@ -526,6 +543,7 @@ li span {
 
 .short-text-span {
     color: #1B3763;
+    font-family: 'Ubuntu';
     font-size: 30px;
     font-weight: bold;
 }
@@ -538,7 +556,7 @@ li span {
 }
 
 .button-blue {
-    font-family: 'Roboto', serif;
+    font-family: 'Ubuntu';
     font-weight: bold;
     font-size: 13px;
     letter-spacing: 0;
@@ -555,7 +573,7 @@ li span {
 }
 
 .button-grey {
-    font-family: 'Roboto', serif;
+    font-family: 'Ubuntu';
     font-size: 13px;
     font-weight: bold;
     letter-spacing: 0;
@@ -612,6 +630,7 @@ li span {
 }
 
 .section-four-title {
+    font-family: 'Ubuntu';
     font-size: 35px;
     color: #FFFFFF;
     font-weight: bold;
@@ -625,7 +644,7 @@ li span {
 }
 
 .button-one {
-    font-family: 'Roboto', serif;
+    font-family: 'Ubuntu';
     font-weight: bold;
     font-size: 13   px;
     letter-spacing: 0;
@@ -639,11 +658,11 @@ li span {
     border: 1px solid #FFFFFF;
     padding: 10px 10px;
     margin-right: 10px;
-    width: 130px;
+    width: 150px;
 }
 
 .button-two {
-    font-family: 'Roboto', serif;
+    font-family: 'Ubuntu';
     font-size: 13px;
     font-weight: bold;
     letter-spacing: 0;
@@ -656,11 +675,12 @@ li span {
     border-radius: 5px;
     padding: 10px 10px;
     margin-left: 10px;
-    width: 250px;
+    width: 280px;
 }
 
 h3 {
     color: #0071BB;
+    font-family: 'Ubuntu';
     font-size: 16px;
     font-weight: bold;
     margin-bottom: 5px;
@@ -682,6 +702,7 @@ h3 {
     margin-bottom: 50px;
     align-items: left;
     color: #1B3763;
+    font-family: 'Ubuntu';
     font-size: 30px;
     font-weight: bold;
 }
@@ -724,10 +745,12 @@ h3 {
     margin-top: 8px;
     color: #1B3763;
     font-size: 18px;
+    font-family: 'Ubuntu';
 }
 
 .section-five-paragraph {
     color: #656565;
+    font-family: 'Ubuntu';
     font-size: 14px;
     align-items: left;
     margin-top: 10px;
@@ -760,6 +783,7 @@ h3 {
 
 a {
     color: #0071BB;
+    font-family: 'Ubuntu';
     font-size: 14px;
     padding-right: 80px;
 }
@@ -769,6 +793,7 @@ a {
     border-radius: 5px;
     padding: 4px 15px 4px 15px;
     text-transform: uppercase;
+    font-family: 'Ubuntu';
     font-size: 11px;
     color: #0071BB;
     font-weight: bold;
@@ -820,6 +845,7 @@ a {
     margin-left: 250px;
     margin-right: 90px;
     color: #656565;
+    font-family: 'Ubuntu';
     font-size: 15px;
     font-weight: bold;
 }
@@ -843,6 +869,7 @@ a {
     text-align: center;
     color: #656565;
     font-size: 14px;
+    font-family: 'Ubuntu';
 }
 
 .section-six {
@@ -873,6 +900,7 @@ a {
 }
 
 .section-six-para {
+    font-family: 'Ubuntu';
     font-size: 14px;
     color: #656565;
     border: 1px #dbdbdb;
@@ -886,12 +914,14 @@ a {
     color: #1B3763;
     font-size: 30px;
     font-weight: bold;
+    font-family: 'Ubuntu';
 } 
 
 .section-six-sub-title {
     color: #0071BB;
     font-size: 15px;
     font-weight: bold;
+    font-family: 'Ubuntu';
 }
 
 .image-cap {
@@ -900,11 +930,13 @@ a {
 }
 
 .section-six-para-student {
+    font-family: 'Ubuntu';
     font-size: 12px;
     color: #656565;
 }
 
 .section-six-span-students {
+    font-family: 'Ubuntu';
     font-size: 12px;
     color: #afafaf;
 }
@@ -919,11 +951,13 @@ a {
 
 .tba {
     font-weight: bold;
+    font-family: 'Ubuntu';
 }
 
 .title-section-seven {
     color: #1B3763;
     font-size: 30px;
+    font-family: 'Ubuntu';
     font-weight: bold;
 }
 
@@ -932,7 +966,7 @@ a {
 }
 
 .section-seven-button {
-    font-family: 'Roboto', serif;
+    font-family: 'Ubuntu';
     font-weight: bold;
     font-size: 13px;
     letter-spacing: 0;
@@ -974,6 +1008,7 @@ a {
     margin-left: 3px;
     margin-right: 3px;
     color: #1B3763;
+    font-family: 'Ubuntu';
     font-size: 13px;
     font-weight: bold;
     margin-right: 2px;
@@ -998,6 +1033,7 @@ a {
 
 .title-section-eight {
     color: #FFFFFF;
+    font-family: 'Ubuntu';
     font-size: 30px;
     font-weight: bold;
     margin-left: 250px;
@@ -1005,6 +1041,7 @@ a {
 
 .section-eight-sub-title {
     color: #FFFFFF;
+    font-family: 'Ubuntu';
     font-size: 14px;
     margin-left: 250px;
     margin-right: 150px;
@@ -1017,6 +1054,7 @@ a {
     margin-right: 100px;
     margin-top: 60px;
     color: #FFFFFF;
+    font-family: 'Ubuntu';
     font-size: 20px;
     font-weight: bold;
 }
@@ -1041,6 +1079,7 @@ a {
     color: #0071bb;
     font-size: 30px;
     font-weight: bold;
+    font-family: 'Ubuntu';
 }
 
 .section-nine-div {
@@ -1076,6 +1115,7 @@ a {
 
 .title-news {
     color: #1B3763;
+    font-family: 'Ubuntu';
     font-size: 18px;
     font-weight: bold;
     text-align: left;
@@ -1084,6 +1124,7 @@ a {
 
 .para-news {
     color: #656565;
+    font-family: 'Ubuntu';
     font-size: 14px;
     text-align: left;
 }
@@ -1112,6 +1153,7 @@ a {
 
 .Dijana-Marko {
     color: #1B3763;
+    font-family: 'Ubuntu';
     font-size: 16px;
     font-weight: bold;
     margin-bottom: 1px;
@@ -1120,6 +1162,7 @@ a {
 .Dijana-Marko-sub-title {
     color: #656565;
     font-size: 13px;
+    font-family: 'Ubuntu';
 }
 
 .contact-info-rac {
@@ -1153,6 +1196,7 @@ a {
     align-items: flex-start;
     justify-content: space-between;
     color: #0071BB;
+    font-family: 'Ubuntu';
     font-size: 12px;
     font-weight: bold;
     padding-top: 5px;
@@ -1178,6 +1222,7 @@ a {
 
 .footer-nav-bar {
     color: #FFFFFF;
+    font-family: 'Ubuntu';
     font-size: 15px;
     margin-top: 10px;
     cursor: pointer;
