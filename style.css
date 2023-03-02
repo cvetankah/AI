@@ -1189,3 +1189,12 @@ a {
     padding-top: 20px;
 }
 
+.screen_two {
+    width: 70%;
+    height: 500px;
+    margin-left: 10px;
+    margin-right: 10px;
+    padding-left: 250px;
+    padding-right: 250px;
+    padding-top: 100px;
+}
