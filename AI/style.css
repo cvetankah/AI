@@ -8,10 +8,11 @@ html, body {
     padding: 0;
 }
 
+
 .section-one-background {
     background-image: url("./images/hero_bg@2x.jpg");
     background-repeat: no-repeat;
-    background-size: cover;
+    background-size: contain;
     width: 90%;
     height: 100%;
     position: center;
@@ -36,7 +37,7 @@ html, body {
 }
 
 .logo-image {
-    width: 180px;
+    /* width: 180px; */
     height: 65px;
     cursor: pointer;
 }
@@ -425,23 +426,16 @@ ul {
     padding-top: 50px;
     padding-bottom: 0;
     width: 90%;
+    height: 700px;
     background-position: right bottom;
 }
 
-.section-three-background {
-    background-image: url("./images/brainnet.svg");
-    background-color: #dbdbdb;
-    background-repeat: no-repeat;
-    background-size:calc(60%);
-    margin-left: 70px;
-    margin-right: 70px;
-    margin-bottom: 10px;
-    margin-top: 50px;
-    padding-top: 50px;
-    padding-bottom: 0;
-    width: 90%;
-    height: 700px;
-    background-position: right bottom;
+.section-three-title {
+    color: #1B3763;
+    font-family: 'Ubuntu', sans-serif;
+    font-size: 30px;
+    font-weight: bold;
+    margin-left: 250px;
 }
 
 
@@ -500,7 +494,7 @@ ul {
     white-space: pre;
     color: #656565;
     font-family: 'Ubuntu', sans-serif;
-    font-size: 13px;
+    font-size: 12px;
     font-weight: bold;
     align-items: left;
     margin-left: 5px;
@@ -1215,6 +1209,7 @@ a {
     color: #656565;
     font-size: 13px;
     font-family: 'Ubuntu', sans-serif;
+    margin-top: 5px;
 }
 
 .contact-info-rac {
@@ -1222,7 +1217,7 @@ a {
     height: 80px;
     border: 1px solid #DEDEDE;
     border-radius: 5px;
-    margin: 20px;
+    margin-top: 20px;
     margin-left: 90px;
     margin-right: 90px;
     margin-bottom: 5px;
@@ -1231,7 +1226,6 @@ a {
     align-items: flex-start;
     padding-top: 15px;
     padding-bottom: 10px;
-    padding-left: 10px;
 }
 
 .last-section-img {
@@ -1242,7 +1236,7 @@ a {
 }
 
 .information {
-    margin-left: 10px;
+    margin-left: 5px;
     margin-top: 1px;
     justify-content: space-between;
 }
@@ -1252,10 +1246,10 @@ a {
     align-items: flex-start;
     justify-content: space-between;
     color: #0071BB;
-    font-family: 'Ubuntu';
-    font-size: 12px;
+    font-family: 'Ubuntu', sans-serif;
+    font-size: 11px;
     font-weight: bold;
-    padding-top: 5px;
+    padding-top: 10px;
 }
 
 .last-icon {

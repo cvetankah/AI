@@ -1,0 +1,397 @@
+@media screen and (max-width: 481px) {
+    .section-one-background {
+        background-size: 700px;
+    }
+    .header {
+        margin-left: 10px;
+    }
+    
+   .logo-image {
+        width: 100px;
+   } 
+
+   .nav {
+        display: none;
+   }
+   
+   .course-basic-info {
+    display: inline-block;
+    padding-left: 10px;
+    }
+
+    .course-name {
+        padding-left: 10px;
+        padding-top: 5px;
+        width: 100%;
+        margin-left: 10px;
+    }
+    
+    .course-info-when-and-how {
+        display: inline;
+        font-size: 13px;
+    }
+    
+    .course-duration{
+        font-size: 20px;
+        line-height: 10px;
+    }
+    
+    .course-title{
+        font-size: 15px;
+        text-transform: uppercase;
+        line-height: 10px;
+        padding: 20px;
+    }
+    
+    .title-eden {
+        padding-bottom: 25px;
+    }
+    .course-span {
+        font-size: 20px;
+        position: relative; left: 260px;
+    }
+
+    .white {
+        color: #FFFFFF;
+    }
+    
+    .grey {
+        color: #A6A8AB;
+    }
+    
+    .buttons {
+        display: flex;
+        align-items: flex-start;
+        padding-top: 10px;
+    }
+    
+    .button-white {
+        font-size: 13px;
+    }
+    
+    .button-colorless {
+        font-size: 13px;
+    }
+
+    .section-two {
+        display: flex;
+        flex-direction: column;
+    }
+
+    .overview {
+        padding-top: 15px;
+        padding-left: 20px;
+        margin-left: 20px;
+    }
+
+    .AI-practitioner {
+        padding-top: 20px;
+        margin-right: 15px;
+        width: 100%;
+    }
+
+    .practitioner-title-and-box {
+        display: inline-block;
+        margin-left: 30px;
+    }
+
+    .practitioner-box{
+        margin-left: 2px;
+    }
+    .course-box-information {
+        display: flex;
+        flex-flow: row wrap;
+        margin-top: 10px;
+    }
+
+    .five-boxes {
+        display: flex;
+        align-items: flex-start;
+        flex-flow: row wrap;
+        margin-left: 0;
+    }
+
+    .span-intro {
+        padding-top: 50px;
+        position: right;
+    }
+    
+    .paragraph-objectives {
+        width: 90%;
+        text-align: left;
+        margin-bottom: 15px;
+    }
+
+    .logox2-bottom {
+    display: none;
+}
+
+.section-three-background {
+    background-size: contain;
+    margin: auto;
+    background-position: center;
+    height: 1000px;
+    margin-top: 10px;
+    padding-top: 0;
+}
+.section-three-title {
+    padding-top: 20px;
+    margin-left: 20px;
+}
+
+.section-three {
+    display: inline-block;
+    align-items: left;
+    margin-left: 5px;
+    margin-top: 2px;
+}
+
+.test {
+    display: flex;
+    align-items: flex-start;
+    margin-left: 10px;
+    padding-bottom: 20px;
+}
+
+.section-three-second-half {
+    width: 350px;
+    border: 1px solid #FFFFFF;
+    box-sizing: border-box;
+    box-shadow: #656565;
+    padding: 20px;
+    padding-left: 30px;
+    margin: auto;
+    height: 380px;
+    background-color: #FFFFFF;
+    border-radius: 3px;
+}
+
+.short-text-span-like {
+    margin-top: 40px;
+    display: inline-block;
+    margin-left: 20px;
+}
+
+.short-text-span {
+    color: #1B3763;
+    font-family: 'Ubuntu', sans-serif;
+    font-size: 30px;
+    font-weight: bold;
+}
+.buttons-div {
+    color :#656565;
+    margin-left: 10px;
+    margin-bottom: 20px;
+}
+.section-four-title {
+    margin-left: 50px;
+}
+.section-four-div {
+    display: flex;
+    flex-flow: row wrap;
+}
+
+.section-four {
+    display: inline-block;
+    align-items: flex-start;
+    flex-flow: row wrap;
+    margin: auto;
+}
+
+.section-four-ractangle-one {
+    width: 360px;
+    margin-top: 20px;
+}
+.section-four-background {
+    height: 1100px;
+    margin-top: 110px;
+    padding-top: 20px;
+}
+
+.section-four-buttons {
+    display: inline-block;
+    margin-top: 20px;
+    margin-left: 20px;
+}
+.button-one {
+    margin-left: 30px;
+    width: 360px;
+}
+
+.button-two {
+    margin-left: 30px;
+    width: 360px;
+    margin-top: 20px;
+}
+
+.title-section-five {
+    margin-left: 30px;
+    margin-bottom: 50px;
+    margin-top: 25px;
+    width: 60%;
+}
+.section-five-ractangle {
+    width: 90%;
+    border: 1px solid #DEDEDE;
+    box-sizing: border-box;
+    box-shadow: #656565;
+    padding-left: 20px;
+    padding-right: 20px;
+    margin-left: 20px;
+    margin-bottom: 20px;
+    height: 180px;
+    background-color: #FFFFFF;
+    border-radius: 3px;
+    text-align: left;
+}
+
+.section-five-div {
+    display: inline;
+    margin: auto;
+    margin-top: 5px;
+}
+.section-five-div-three {
+    margin-left: 70px;
+}
+.section-five-div-three-padding {
+    margin-top: 40px;
+    margin-left: 70px;
+    margin-bottom: 20px;
+    padding-bottom: 20px;
+}
+.arrows {
+   display: none;
+ }
+ .section-six-div-one {
+    margin-left: 30px;
+}
+.section-six-div-two {
+    display: inline-block;
+    margin-left: 20px;
+    margin-bottom: 20px;
+    width: 100%;
+    text-align: left;
+}
+.section-six-para {
+    width: 90%;
+    margin-bottom: 5px;
+}
+
+.section-six-instructor {
+    margin-left: 120px;
+}
+
+.section-six-students {
+    display: inline-block;
+    margin-left: 20px;
+}
+.section-six-students-rac {
+    width: 330px;
+    border: 1px solid #DEDEDE;
+    border-radius: 5px;
+    padding: 20px;
+    margin: 20px;
+    margin-left: 10px;
+    background-color: #FFFFFF;
+}
+
+.section-six-background {
+    height: 1600px;
+}
+.section-six {
+    padding-left: 20px;
+    padding-right: 20px;
+}
+.title-section-six {
+    margin-top: 10px;
+} 
+.section-six-grid {
+    display: inline;
+    margin-left: 50px;
+}
+
+.secion-seven {
+    text-align: center;
+    width: 90%;
+    margin: auto;
+}
+.section-seven-button {
+    padding: 10px 30px;
+    margin-top: 30px;
+    width: 60%;
+}
+.section-eight-background {
+    margin: auto;
+    margin-top: 30px;
+    height: 600px;
+    padding-top: 30px;
+}
+.title-section-eight {
+    margin-left: 30px;
+}
+
+.section-eight-sub-title {
+    margin-left: 30px;
+    margin-right: 10px;
+}
+.section-eight-div-two {
+    margin-left: 30px;
+    margin-right: 20px;
+    margin-top: 40px;
+    font-size: 18px;
+}
+.section-eight {
+    margin-left: 10px;
+    width: 100%;
+    display: flex;
+    flex-wrap: wrap;
+    margin-right: 10px;
+}
+.section-nine {
+    margin-left: 30px;
+    width: 100%;
+}
+.last-section-background {
+    margin: auto;
+    margin-top: 30px;
+    padding-top: 30px;
+    height: 600px;
+}
+.contact-info {
+    display: inline-block;
+    margin-left: 30px;
+}
+.contact-info-rac {
+    width: 370px;
+    height: 80px;
+    margin: auto;
+    margin-bottom: 10px;  
+}
+
+
+.footer {
+    display: inline-block;
+    align-items: center;
+    width: 90%;
+    margin-left: 140px;
+    margin-top: 40px;  
+}
+
+.semos-logo-img {
+    width: 30%;
+    margin-top: 15px;
+}
+
+.footer-nav-bar span {
+    padding-top: 5px;
+    display: flex;
+    flex-direction: column;
+    align-items: left;
+    padding-bottom: 5px;
+}
+
+.final-information {
+    display: flex;
+    flex-direction: column;
+}
+}
