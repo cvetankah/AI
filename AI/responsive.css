@@ -1,6 +1,7 @@
 @media screen and (max-width: 481px) {
     .section-one-background {
-        background-size: 700px;
+        background-size: 800px;
+        height: 300px;
     }
     .header {
         margin-left: 10px;
@@ -28,7 +29,21 @@
     
     .course-info-when-and-how {
         display: inline;
-        font-size: 13px;
+        margin: 0;
+        padding: 0px;
+        width: 900px;
+    }
+
+    .when {
+        text-align: center;
+        font-size: 30px;
+    }
+
+    .buttons {
+        display: flex;
+        align-items: flex-start;
+        padding-top: 10px;
+        margin-left: 60px;
     }
     
     .course-duration{
@@ -189,17 +204,17 @@
 .section-four-div {
     display: flex;
     flex-flow: row wrap;
+    margin-left: 0px;
+    margin-right: 20px;
 }
 
 .section-four {
     display: inline-block;
-    align-items: flex-start;
-    flex-flow: row wrap;
     margin: auto;
 }
 
 .section-four-ractangle-one {
-    width: 360px;
+    width: 340px;
     margin-top: 20px;
 }
 .section-four-background {
@@ -215,12 +230,12 @@
 }
 .button-one {
     margin-left: 30px;
-    width: 360px;
+    width: 340px;
 }
 
 .button-two {
     margin-left: 30px;
-    width: 360px;
+    width: 340px;
     margin-top: 20px;
 }
 
@@ -298,7 +313,7 @@
 }
 
 .section-six-background {
-    height: 1600px;
+    height: 1650px;
 }
 .section-six {
     padding-left: 20px;
