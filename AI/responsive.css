@@ -398,4 +398,19 @@
     display: flex;
     flex-direction: column;
 }
+
+.screen_two {
+    width: 600px;
+    height: 350px;
+    margin: 5px 110px;
+    padding-left: 0px;
+    padding-right: 0px;
+    padding-top: 5px;
+}
+
+.screen-three {
+    width: 30%;
+    height: 200px;
+    margin: 5px 110px
+}
 }
